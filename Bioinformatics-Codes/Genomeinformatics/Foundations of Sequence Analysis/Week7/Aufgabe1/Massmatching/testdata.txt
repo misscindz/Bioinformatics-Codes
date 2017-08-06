@@ -1,0 +1,6 @@
+acgtagctc 9
+aacgttacgttacctgactggctaa 10
+acccactggcagtacc 3
+acccactggcagtacc 1
+acccactggcagtacc 2
+acccactggcagtacc 4
