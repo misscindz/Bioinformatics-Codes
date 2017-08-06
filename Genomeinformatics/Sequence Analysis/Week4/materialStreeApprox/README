@@ -1,0 +1,27 @@
+After installing the genometools and setting GTDIR and CC
+Try the following commands (depending on the exercise to be solved)
+
+./download.sh 1
+./index.sh Ecoli_K12 Ecoli_K12.fna
+make stree-exact-match.x
+
+./download.sh 1
+./index.sh Ecoli_K12 Ecoli_K12.fna
+make stree-approx-match.x
+
+./download.sh 1
+./index.sh Ecoli_K12 Ecoli_K12.fna
+make stree-minunique.x
+
+./download.sh 1 2
+./index.sh Ecoli_K12_O127 Ecoli_K12.fna Ecoli_O127_H6.fna
+make stree-mum.x
+
+The following commands will initially fail, as the empy functions do not
+deliver any results. As soon as these have correctly been implemented, it will
+hopefully be successful.
+
+make test-exact-match
+make test-approx-match
+make test-minunique
+make test-mum

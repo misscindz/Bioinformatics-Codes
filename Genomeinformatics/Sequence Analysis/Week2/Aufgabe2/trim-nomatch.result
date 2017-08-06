@@ -1,0 +1,2003 @@
+# historysize=60
+# regionalquality=33
+# frontheadlag=17
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+1669019	1000	4186541	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+4186541	1000	1669019	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+2349886	1000	817674	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+817674	1000	2349886	1000	2001
+2001 != 507 (correct), computed sim=-100.10, correct sim=49.30
+3927260	1000	4182788	1000	2001
+2001 != 507 (correct), computed sim=-100.10, correct sim=49.30
+4182788	1000	3927260	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+1896320	1000	2704277	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+2704277	1000	1896320	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+292715	1000	2815656	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+2815656	1000	292715	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+640914	1000	1076357	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+1076357	1000	640914	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+3477228	1000	4516356	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+4516356	1000	3477228	1000	2001
+2001 != 509 (correct), computed sim=-100.10, correct sim=49.10
+1203269	1000	2953549	1000	2001
+2001 != 509 (correct), computed sim=-100.10, correct sim=49.10
+2953549	1000	1203269	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+1815652	1000	4152965	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+4152965	1000	1815652	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+563629	1000	3481965	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+3481965	1000	563629	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+1676325	1000	1170588	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+1170588	1000	1676325	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+3698205	1000	2638903	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+2638903	1000	3698205	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+1896159	1000	1093094	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+1093094	1000	1896159	1000	2001
+2001 != 541 (correct), computed sim=-100.10, correct sim=45.90
+37648	1000	4218768	1000	2001
+2001 != 541 (correct), computed sim=-100.10, correct sim=45.90
+4218768	1000	37648	1000	2001
+2001 != 513 (correct), computed sim=-100.10, correct sim=48.70
+2006817	1000	1958757	1000	2001
+2001 != 513 (correct), computed sim=-100.10, correct sim=48.70
+1958757	1000	2006817	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+1740016	1000	4000210	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+4000210	1000	1740016	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+877489	1000	942229	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+942229	1000	877489	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+2085648	1000	1922615	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+1922615	1000	2085648	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+1726827	1000	346627	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+346627	1000	1726827	1000	2001
+2001 != 512 (correct), computed sim=-100.10, correct sim=48.80
+3687463	1000	2351080	1000	2001
+2001 != 512 (correct), computed sim=-100.10, correct sim=48.80
+2351080	1000	3687463	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+463859	1000	3212326	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+3212326	1000	463859	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+2050829	1000	1142480	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+1142480	1000	2050829	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+530025	1000	3525894	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+3525894	1000	530025	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+4285256	1000	4515602	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+4515602	1000	4285256	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+3771703	1000	4116047	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+4116047	1000	3771703	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+2531261	1000	1743515	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+1743515	1000	2531261	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+2447540	1000	2726092	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+2726092	1000	2447540	1000	2001
+2001 != 542 (correct), computed sim=-100.10, correct sim=45.80
+948852	1000	2378722	1000	2001
+2001 != 542 (correct), computed sim=-100.10, correct sim=45.80
+2378722	1000	948852	1000	2001
+2001 != 546 (correct), computed sim=-100.10, correct sim=45.40
+1636805	1000	280162	1000	2001
+2001 != 546 (correct), computed sim=-100.10, correct sim=45.40
+280162	1000	1636805	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+3007287	1000	204051	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+204051	1000	3007287	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+2968703	1000	1414312	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+1414312	1000	2968703	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+897010	1000	1971337	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+1971337	1000	897010	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+3543723	1000	1852554	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+1852554	1000	3543723	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+2483946	1000	593343	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+593343	1000	2483946	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+562631	1000	3225399	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+3225399	1000	562631	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+157620	1000	1318880	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+1318880	1000	157620	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+3360808	1000	225539	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+225539	1000	3360808	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+26573	1000	860148	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+860148	1000	26573	1000	2001
+2001 != 511 (correct), computed sim=-100.10, correct sim=48.90
+3385366	1000	3584677	1000	2001
+2001 != 511 (correct), computed sim=-100.10, correct sim=48.90
+3584677	1000	3385366	1000	2001
+2001 != 541 (correct), computed sim=-100.10, correct sim=45.90
+2226842	1000	3461748	1000	2001
+2001 != 541 (correct), computed sim=-100.10, correct sim=45.90
+3461748	1000	2226842	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+1309239	1000	2412118	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+2412118	1000	1309239	1000	2001
+2001 != 540 (correct), computed sim=-100.10, correct sim=46.00
+3759532	1000	3789274	1000	2001
+2001 != 540 (correct), computed sim=-100.10, correct sim=46.00
+3789274	1000	3759532	1000	2001
+2001 != 508 (correct), computed sim=-100.10, correct sim=49.20
+2218285	1000	1783639	1000	2001
+2001 != 508 (correct), computed sim=-100.10, correct sim=49.20
+1783639	1000	2218285	1000	2001
+2001 != 549 (correct), computed sim=-100.10, correct sim=45.10
+4507923	1000	2902922	1000	2001
+2001 != 549 (correct), computed sim=-100.10, correct sim=45.10
+2902922	1000	4507923	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+1215295	1000	1216027	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+1216027	1000	1215295	1000	2001
+2001 != 543 (correct), computed sim=-100.10, correct sim=45.70
+2994854	1000	4266524	1000	2001
+2001 != 543 (correct), computed sim=-100.10, correct sim=45.70
+4266524	1000	2994854	1000	2001
+2001 != 514 (correct), computed sim=-100.10, correct sim=48.60
+3518987	1000	3481081	1000	2001
+2001 != 514 (correct), computed sim=-100.10, correct sim=48.60
+3481081	1000	3518987	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2522034	1000	193349	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+193349	1000	2522034	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+694176	1000	4413500	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+4413500	1000	694176	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+1626257	1000	2236856	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+2236856	1000	1626257	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+4016490	1000	1145333	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+1145333	1000	4016490	1000	2001
+2001 != 548 (correct), computed sim=-100.10, correct sim=45.20
+2323012	1000	2467979	1000	2001
+2001 != 548 (correct), computed sim=-100.10, correct sim=45.20
+2467979	1000	2323012	1000	2001
+2001 != 549 (correct), computed sim=-100.10, correct sim=45.10
+3736729	1000	3013665	1000	2001
+2001 != 549 (correct), computed sim=-100.10, correct sim=45.10
+3013665	1000	3736729	1000	2001
+2001 != 545 (correct), computed sim=-100.10, correct sim=45.50
+1210900	1000	5885	1000	2001
+2001 != 545 (correct), computed sim=-100.10, correct sim=45.50
+5885	1000	1210900	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+705310	1000	1592449	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+1592449	1000	705310	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+3446865	1000	966771	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+966771	1000	3446865	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+1912190	1000	608321	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+608321	1000	1912190	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+1480824	1000	1530654	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+1530654	1000	1480824	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+3954189	1000	1304836	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+1304836	1000	3954189	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+3943887	1000	1646739	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+1646739	1000	3943887	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+2071570	1000	2957989	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+2957989	1000	2071570	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2518955	1000	1502466	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+1502466	1000	2518955	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+4152124	1000	777662	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+777662	1000	4152124	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+3416170	1000	1419092	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+1419092	1000	3416170	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+2299953	1000	3636456	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+3636456	1000	2299953	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+1320160	1000	959621	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+959621	1000	1320160	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+2680592	1000	4287576	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+4287576	1000	2680592	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+3712394	1000	493969	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+493969	1000	3712394	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+873978	1000	2407738	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+2407738	1000	873978	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+612471	1000	1980505	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+1980505	1000	612471	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+4337534	1000	1862017	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+1862017	1000	4337534	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2637927	1000	1271627	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+1271627	1000	2637927	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+111444	1000	3438622	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+3438622	1000	111444	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+494542	1000	228124	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+228124	1000	494542	1000	2001
+2001 != 510 (correct), computed sim=-100.10, correct sim=49.00
+2295597	1000	3304431	1000	2001
+2001 != 510 (correct), computed sim=-100.10, correct sim=49.00
+3304431	1000	2295597	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+204289	1000	823486	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+823486	1000	204289	1000	2001
+2001 != 554 (correct), computed sim=-100.10, correct sim=44.60
+1063176	1000	626433	1000	2001
+2001 != 554 (correct), computed sim=-100.10, correct sim=44.60
+626433	1000	1063176	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+484930	1000	864074	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+864074	1000	484930	1000	2001
+2001 != 504 (correct), computed sim=-100.10, correct sim=49.60
+372877	1000	2015307	1000	2001
+2001 != 504 (correct), computed sim=-100.10, correct sim=49.60
+2015307	1000	372877	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+2034210	1000	1688278	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+1688278	1000	2034210	1000	2001
+2001 != 549 (correct), computed sim=-100.10, correct sim=45.10
+4510210	1000	1197347	1000	2001
+2001 != 549 (correct), computed sim=-100.10, correct sim=45.10
+1197347	1000	4510210	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+4135257	1000	3136494	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+3136494	1000	4135257	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+287719	1000	4089499	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+4089499	1000	287719	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+2143895	1000	2963802	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+2963802	1000	2143895	1000	2001
+2001 != 549 (correct), computed sim=-100.10, correct sim=45.10
+1196663	1000	3433261	1000	2001
+2001 != 549 (correct), computed sim=-100.10, correct sim=45.10
+3433261	1000	1196663	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+4491295	1000	3252554	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+3252554	1000	4491295	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+2741951	1000	731369	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+731369	1000	2741951	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+980341	1000	2381933	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2381933	1000	980341	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+1100815	1000	1174586	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+1174586	1000	1100815	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+1770545	1000	604885	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+604885	1000	1770545	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+3186644	1000	1076510	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+1076510	1000	3186644	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+933937	1000	3112192	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+3112192	1000	933937	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+1272157	1000	117617	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+117617	1000	1272157	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+1303393	1000	4617639	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+4617639	1000	1303393	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+3213436	1000	28178	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+28178	1000	3213436	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+2272506	1000	2613816	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+2613816	1000	2272506	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+2621865	1000	4386471	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+4386471	1000	2621865	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+3006618	1000	1768425	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+1768425	1000	3006618	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+76005	1000	3248567	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+3248567	1000	76005	1000	2001
+2001 != 540 (correct), computed sim=-100.10, correct sim=46.00
+4165799	1000	2883070	1000	2001
+2001 != 540 (correct), computed sim=-100.10, correct sim=46.00
+2883070	1000	4165799	1000	2001
+2001 != 513 (correct), computed sim=-100.10, correct sim=48.70
+3990133	1000	3373662	1000	2001
+2001 != 513 (correct), computed sim=-100.10, correct sim=48.70
+3373662	1000	3990133	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+1282735	1000	2311398	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+2311398	1000	1282735	1000	2001
+2001 != 513 (correct), computed sim=-100.10, correct sim=48.70
+683805	1000	3114076	1000	2001
+2001 != 513 (correct), computed sim=-100.10, correct sim=48.70
+3114076	1000	683805	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+3124552	1000	3314920	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+3314920	1000	3124552	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+308188	1000	2596726	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+2596726	1000	308188	1000	2001
+2001 != 544 (correct), computed sim=-100.10, correct sim=45.60
+707174	1000	2147154	1000	2001
+2001 != 544 (correct), computed sim=-100.10, correct sim=45.60
+2147154	1000	707174	1000	2001
+2001 != 540 (correct), computed sim=-100.10, correct sim=46.00
+1489025	1000	3674559	1000	2001
+2001 != 540 (correct), computed sim=-100.10, correct sim=46.00
+3674559	1000	1489025	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+1073276	1000	1341971	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+1341971	1000	1073276	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+2678615	1000	3814318	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+3814318	1000	2678615	1000	2001
+2001 != 511 (correct), computed sim=-100.10, correct sim=48.90
+489075	1000	1345965	1000	2001
+2001 != 511 (correct), computed sim=-100.10, correct sim=48.90
+1345965	1000	489075	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+1859301	1000	2657733	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+2657733	1000	1859301	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+3110605	1000	1902465	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+1902465	1000	3110605	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+118823	1000	1041347	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+1041347	1000	118823	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+2509132	1000	302996	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+302996	1000	2509132	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+2455405	1000	2563509	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+2563509	1000	2455405	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+2646706	1000	3224140	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+3224140	1000	2646706	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+1620003	1000	200802	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+200802	1000	1620003	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+813923	1000	4378302	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+4378302	1000	813923	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+2978153	1000	3002574	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+3002574	1000	2978153	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+1480260	1000	1020110	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+1020110	1000	1480260	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+4201046	1000	28303	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+28303	1000	4201046	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+253654	1000	1432182	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+1432182	1000	253654	1000	2001
+2001 != 512 (correct), computed sim=-100.10, correct sim=48.80
+3865298	1000	647179	1000	2001
+2001 != 512 (correct), computed sim=-100.10, correct sim=48.80
+647179	1000	3865298	1000	2001
+2001 != 540 (correct), computed sim=-100.10, correct sim=46.00
+1480772	1000	150293	1000	2001
+2001 != 540 (correct), computed sim=-100.10, correct sim=46.00
+150293	1000	1480772	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+573109	1000	1571521	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+1571521	1000	573109	1000	2001
+2001 != 514 (correct), computed sim=-100.10, correct sim=48.60
+4524766	1000	2828054	1000	2001
+2001 != 514 (correct), computed sim=-100.10, correct sim=48.60
+2828054	1000	4524766	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+3245169	1000	273592	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+273592	1000	3245169	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+3814747	1000	4448759	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+4448759	1000	3814747	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+3528066	1000	2417877	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+2417877	1000	3528066	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+2483356	1000	148777	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+148777	1000	2483356	1000	2001
+2001 != 543 (correct), computed sim=-100.10, correct sim=45.70
+316936	1000	2644464	1000	2001
+2001 != 543 (correct), computed sim=-100.10, correct sim=45.70
+2644464	1000	316936	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+3593201	1000	4018828	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+4018828	1000	3593201	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2086021	1000	2680470	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2680470	1000	2086021	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+4139042	1000	1864833	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+1864833	1000	4139042	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+893944	1000	1199607	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+1199607	1000	893944	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+4413587	1000	1318781	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+1318781	1000	4413587	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+3880420	1000	401992	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+401992	1000	3880420	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+2532904	1000	1633490	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+1633490	1000	2532904	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+1303914	1000	77823	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+77823	1000	1303914	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+1247958	1000	37423	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+37423	1000	1247958	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+3213934	1000	590584	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+590584	1000	3213934	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+1178583	1000	857162	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+857162	1000	1178583	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+1683405	1000	4461451	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+4461451	1000	1683405	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+2727966	1000	2948079	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+2948079	1000	2727966	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+3221120	1000	1307975	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+1307975	1000	3221120	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+4535726	1000	3917958	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+3917958	1000	4535726	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+3806123	1000	80145	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+80145	1000	3806123	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+2742774	1000	1069549	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+1069549	1000	2742774	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+1080203	1000	2543097	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+2543097	1000	1080203	1000	2001
+2001 != 541 (correct), computed sim=-100.10, correct sim=45.90
+1642207	1000	530646	1000	2001
+2001 != 541 (correct), computed sim=-100.10, correct sim=45.90
+530646	1000	1642207	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+3028556	1000	3658367	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+3658367	1000	3028556	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+1653350	1000	2910618	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+2910618	1000	1653350	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+152079	1000	678595	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+678595	1000	152079	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+1326032	1000	1837063	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+1837063	1000	1326032	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+1873830	1000	3458313	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+3458313	1000	1873830	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+1483057	1000	3305792	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+3305792	1000	1483057	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+3022819	1000	321214	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+321214	1000	3022819	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+3309702	1000	1811758	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+1811758	1000	3309702	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+347264	1000	2283506	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+2283506	1000	347264	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+2626347	1000	4534489	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+4534489	1000	2626347	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+2743250	1000	4463500	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+4463500	1000	2743250	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2666117	1000	3884961	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+3884961	1000	2666117	1000	2001
+2001 != 555 (correct), computed sim=-100.10, correct sim=44.50
+4537357	1000	2147003	1000	2001
+2001 != 555 (correct), computed sim=-100.10, correct sim=44.50
+2147003	1000	4537357	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+3450576	1000	3094620	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+3094620	1000	3450576	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+4578327	1000	1528184	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+1528184	1000	4578327	1000	2001
+2001 != 551 (correct), computed sim=-100.10, correct sim=44.90
+584628	1000	2589678	1000	2001
+2001 != 551 (correct), computed sim=-100.10, correct sim=44.90
+2589678	1000	584628	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+2686932	1000	3749458	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+3749458	1000	2686932	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+2576124	1000	2068113	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+2068113	1000	2576124	1000	2001
+2001 != 512 (correct), computed sim=-100.10, correct sim=48.80
+2155068	1000	2867677	1000	2001
+2001 != 512 (correct), computed sim=-100.10, correct sim=48.80
+2867677	1000	2155068	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+2516886	1000	1286366	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+1286366	1000	2516886	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+1134293	1000	3202242	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+3202242	1000	1134293	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+2648324	1000	4143649	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+4143649	1000	2648324	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+396455	1000	2087721	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+2087721	1000	396455	1000	2001
+2001 != 547 (correct), computed sim=-100.10, correct sim=45.30
+4357231	1000	2229358	1000	2001
+2001 != 547 (correct), computed sim=-100.10, correct sim=45.30
+2229358	1000	4357231	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+2109897	1000	315408	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+315408	1000	2109897	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+2835759	1000	2820522	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+2820522	1000	2835759	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+4590363	1000	2030030	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+2030030	1000	4590363	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+1594304	1000	2670091	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+2670091	1000	1594304	1000	2001
+2001 != 511 (correct), computed sim=-100.10, correct sim=48.90
+265570	1000	524631	1000	2001
+2001 != 511 (correct), computed sim=-100.10, correct sim=48.90
+524631	1000	265570	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+1246883	1000	1875433	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+1875433	1000	1246883	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+3344969	1000	3295652	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+3295652	1000	3344969	1000	2001
+2001 != 514 (correct), computed sim=-100.10, correct sim=48.60
+1848860	1000	1132290	1000	2001
+2001 != 514 (correct), computed sim=-100.10, correct sim=48.60
+1132290	1000	1848860	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+4202206	1000	324460	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+324460	1000	4202206	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+1240748	1000	3716158	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+3716158	1000	1240748	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+2148993	1000	1687335	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+1687335	1000	2148993	1000	2001
+2001 != 544 (correct), computed sim=-100.10, correct sim=45.60
+914657	1000	3408020	1000	2001
+2001 != 544 (correct), computed sim=-100.10, correct sim=45.60
+3408020	1000	914657	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+1886615	1000	141661	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+141661	1000	1886615	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+1093921	1000	429467	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+429467	1000	1093921	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+4463425	1000	4368828	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+4368828	1000	4463425	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+846417	1000	3808160	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+3808160	1000	846417	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+1034053	1000	3311483	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+3311483	1000	1034053	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+594794	1000	3212119	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+3212119	1000	594794	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+2928523	1000	3567231	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+3567231	1000	2928523	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+1765572	1000	1219789	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+1219789	1000	1765572	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+4236516	1000	2427480	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2427480	1000	4236516	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+187594	1000	2004985	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+2004985	1000	187594	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+3183177	1000	1490906	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+1490906	1000	3183177	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+4349435	1000	4194742	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+4194742	1000	4349435	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+3991508	1000	1516091	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+1516091	1000	3991508	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+168459	1000	2703965	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+2703965	1000	168459	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+4293949	1000	1486099	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+1486099	1000	4293949	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+2711837	1000	942351	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+942351	1000	2711837	1000	2001
+2001 != 509 (correct), computed sim=-100.10, correct sim=49.10
+2820697	1000	670801	1000	2001
+2001 != 509 (correct), computed sim=-100.10, correct sim=49.10
+670801	1000	2820697	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+215111	1000	4534814	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+4534814	1000	215111	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+2038140	1000	2138217	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+2138217	1000	2038140	1000	2001
+2001 != 542 (correct), computed sim=-100.10, correct sim=45.80
+185938	1000	2897941	1000	2001
+2001 != 542 (correct), computed sim=-100.10, correct sim=45.80
+2897941	1000	185938	1000	2001
+2001 != 544 (correct), computed sim=-100.10, correct sim=45.60
+2135776	1000	1734756	1000	2001
+2001 != 544 (correct), computed sim=-100.10, correct sim=45.60
+1734756	1000	2135776	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+1996721	1000	2505358	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+2505358	1000	1996721	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+1036646	1000	1667311	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+1667311	1000	1036646	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+638719	1000	2465259	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+2465259	1000	638719	1000	2001
+2001 != 545 (correct), computed sim=-100.10, correct sim=45.50
+2396331	1000	1569630	1000	2001
+2001 != 545 (correct), computed sim=-100.10, correct sim=45.50
+1569630	1000	2396331	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+1674466	1000	546913	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+546913	1000	1674466	1000	2001
+2001 != 543 (correct), computed sim=-100.10, correct sim=45.70
+2055647	1000	3016844	1000	2001
+2001 != 543 (correct), computed sim=-100.10, correct sim=45.70
+3016844	1000	2055647	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+1576067	1000	4473726	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+4473726	1000	1576067	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+144929	1000	24999	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+24999	1000	144929	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+2793981	1000	537664	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+537664	1000	2793981	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+623894	1000	4228077	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+4228077	1000	623894	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+3360244	1000	342598	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+342598	1000	3360244	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+4222730	1000	1564110	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+1564110	1000	4222730	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+2320394	1000	3403144	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+3403144	1000	2320394	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+2792437	1000	1085794	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+1085794	1000	2792437	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+156453	1000	4572702	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+4572702	1000	156453	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+1092791	1000	573827	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+573827	1000	1092791	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+126827	1000	3546280	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+3546280	1000	126827	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+4193599	1000	2813871	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2813871	1000	4193599	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+4424836	1000	2752680	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+2752680	1000	4424836	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+2089509	1000	3862553	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+3862553	1000	2089509	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+1959255	1000	457851	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+457851	1000	1959255	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+1992317	1000	304159	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+304159	1000	1992317	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+1360140	1000	1015169	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+1015169	1000	1360140	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+2325668	1000	1248294	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+1248294	1000	2325668	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+3372949	1000	4560774	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+4560774	1000	3372949	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+743810	1000	3312662	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+3312662	1000	743810	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+2270340	1000	2861242	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+2861242	1000	2270340	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+2563954	1000	2144562	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+2144562	1000	2563954	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+4314907	1000	2390395	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2390395	1000	4314907	1000	2001
+2001 != 547 (correct), computed sim=-100.10, correct sim=45.30
+3619062	1000	154685	1000	2001
+2001 != 547 (correct), computed sim=-100.10, correct sim=45.30
+154685	1000	3619062	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+3982700	1000	2518249	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+2518249	1000	3982700	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+1326865	1000	2337726	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+2337726	1000	1326865	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+2917053	1000	1961122	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+1961122	1000	2917053	1000	2001
+2001 != 502 (correct), computed sim=-100.10, correct sim=49.80
+3604039	1000	4051001	1000	2001
+2001 != 502 (correct), computed sim=-100.10, correct sim=49.80
+4051001	1000	3604039	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+3744621	1000	1516978	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+1516978	1000	3744621	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+766596	1000	996210	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+996210	1000	766596	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+1921884	1000	4534670	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+4534670	1000	1921884	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+115551	1000	2523092	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+2523092	1000	115551	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+3226289	1000	1288415	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+1288415	1000	3226289	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+2876716	1000	2798682	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+2798682	1000	2876716	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+3214932	1000	3260905	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+3260905	1000	3214932	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+2859259	1000	1295870	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+1295870	1000	2859259	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+4034832	1000	4401226	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+4401226	1000	4034832	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+2088116	1000	2800972	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+2800972	1000	2088116	1000	2001
+2001 != 541 (correct), computed sim=-100.10, correct sim=45.90
+4108993	1000	2551424	1000	2001
+2001 != 541 (correct), computed sim=-100.10, correct sim=45.90
+2551424	1000	4108993	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+2776503	1000	741360	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+741360	1000	2776503	1000	2001
+2001 != 507 (correct), computed sim=-100.10, correct sim=49.30
+4182392	1000	4144076	1000	2001
+2001 != 507 (correct), computed sim=-100.10, correct sim=49.30
+4144076	1000	4182392	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+2093881	1000	2208345	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+2208345	1000	2093881	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+1628966	1000	426650	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+426650	1000	1628966	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+3096413	1000	2460455	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+2460455	1000	3096413	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+4516888	1000	194817	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+194817	1000	4516888	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+3911100	1000	1803019	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+1803019	1000	3911100	1000	2001
+2001 != 515 (correct), computed sim=-100.10, correct sim=48.50
+1505122	1000	644222	1000	2001
+2001 != 515 (correct), computed sim=-100.10, correct sim=48.50
+644222	1000	1505122	1000	2001
+2001 != 540 (correct), computed sim=-100.10, correct sim=46.00
+1050404	1000	929828	1000	2001
+2001 != 540 (correct), computed sim=-100.10, correct sim=46.00
+929828	1000	1050404	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+1253203	1000	3138137	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+3138137	1000	1253203	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+1684487	1000	1071705	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+1071705	1000	1684487	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+3401234	1000	4265343	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+4265343	1000	3401234	1000	2001
+2001 != 541 (correct), computed sim=-100.10, correct sim=45.90
+1305706	1000	3098444	1000	2001
+2001 != 541 (correct), computed sim=-100.10, correct sim=45.90
+3098444	1000	1305706	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2936286	1000	2046090	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2046090	1000	2936286	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+4617230	1000	552771	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+552771	1000	4617230	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+2732463	1000	441752	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+441752	1000	2732463	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+3620138	1000	2576796	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+2576796	1000	3620138	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+4345692	1000	1443240	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+1443240	1000	4345692	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+3724253	1000	3808739	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+3808739	1000	3724253	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+2725739	1000	1910877	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+1910877	1000	2725739	1000	2001
+2001 != 550 (correct), computed sim=-100.10, correct sim=45.00
+4246857	1000	1527781	1000	2001
+2001 != 550 (correct), computed sim=-100.10, correct sim=45.00
+1527781	1000	4246857	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+1295319	1000	338593	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+338593	1000	1295319	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+3705884	1000	4577237	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+4577237	1000	3705884	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+1061677	1000	4587918	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+4587918	1000	1061677	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+1152044	1000	769245	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+769245	1000	1152044	1000	2001
+2001 != 544 (correct), computed sim=-100.10, correct sim=45.60
+2889936	1000	1430628	1000	2001
+2001 != 544 (correct), computed sim=-100.10, correct sim=45.60
+1430628	1000	2889936	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+1163973	1000	3430184	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+3430184	1000	1163973	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+3720872	1000	2604458	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+2604458	1000	3720872	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+4309243	1000	1719360	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+1719360	1000	4309243	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+127768	1000	2501613	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+2501613	1000	127768	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+3553845	1000	572024	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+572024	1000	3553845	1000	2001
+2001 != 552 (correct), computed sim=-100.10, correct sim=44.80
+2400721	1000	2784233	1000	2001
+2001 != 552 (correct), computed sim=-100.10, correct sim=44.80
+2784233	1000	2400721	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+963482	1000	1703066	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+1703066	1000	963482	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+724714	1000	3566700	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+3566700	1000	724714	1000	2001
+2001 != 540 (correct), computed sim=-100.10, correct sim=46.00
+1668324	1000	1117623	1000	2001
+2001 != 540 (correct), computed sim=-100.10, correct sim=46.00
+1117623	1000	1668324	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+574299	1000	1442338	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+1442338	1000	574299	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+2663284	1000	2762621	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+2762621	1000	2663284	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+1500831	1000	1242214	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+1242214	1000	1500831	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+2410060	1000	504476	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+504476	1000	2410060	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+2834600	1000	2808168	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+2808168	1000	2834600	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+1162273	1000	2431342	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+2431342	1000	1162273	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+4001232	1000	327740	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+327740	1000	4001232	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+2257082	1000	1789549	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+1789549	1000	2257082	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+718875	1000	3137310	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+3137310	1000	718875	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+1896583	1000	1973352	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+1973352	1000	1896583	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+3194424	1000	2439294	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+2439294	1000	3194424	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+2215942	1000	2847893	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+2847893	1000	2215942	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+792318	1000	3753712	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+3753712	1000	792318	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+2297962	1000	3528470	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+3528470	1000	2297962	1000	2001
+2001 != 543 (correct), computed sim=-100.10, correct sim=45.70
+4308878	1000	3705690	1000	2001
+2001 != 543 (correct), computed sim=-100.10, correct sim=45.70
+3705690	1000	4308878	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+4526436	1000	2251570	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+2251570	1000	4526436	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+3017330	1000	847370	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+847370	1000	3017330	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+1385751	1000	2135770	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+2135770	1000	1385751	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+4552992	1000	4573910	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+4573910	1000	4552992	1000	2001
+2001 != 541 (correct), computed sim=-100.10, correct sim=45.90
+1500752	1000	1642754	1000	2001
+2001 != 541 (correct), computed sim=-100.10, correct sim=45.90
+1642754	1000	1500752	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+4023444	1000	1190073	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+1190073	1000	4023444	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+389450	1000	1345815	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+1345815	1000	389450	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+1934175	1000	213390	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+213390	1000	1934175	1000	2001
+2001 != 547 (correct), computed sim=-100.10, correct sim=45.30
+4071658	1000	2898146	1000	2001
+2001 != 547 (correct), computed sim=-100.10, correct sim=45.30
+2898146	1000	4071658	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+35249	1000	2307622	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+2307622	1000	35249	1000	2001
+2001 != 510 (correct), computed sim=-100.10, correct sim=49.00
+908256	1000	625038	1000	2001
+2001 != 510 (correct), computed sim=-100.10, correct sim=49.00
+625038	1000	908256	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+786589	1000	3600045	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+3600045	1000	786589	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+2370065	1000	1676921	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+1676921	1000	2370065	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+1697416	1000	4332288	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+4332288	1000	1697416	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+4552566	1000	715668	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+715668	1000	4552566	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+2527674	1000	4261901	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+4261901	1000	2527674	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+3379619	1000	1375809	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+1375809	1000	3379619	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+2408857	1000	408272	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+408272	1000	2408857	1000	2001
+2001 != 543 (correct), computed sim=-100.10, correct sim=45.70
+722879	1000	268831	1000	2001
+2001 != 543 (correct), computed sim=-100.10, correct sim=45.70
+268831	1000	722879	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+1222449	1000	3095623	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+3095623	1000	1222449	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+2051237	1000	1383331	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+1383331	1000	2051237	1000	2001
+2001 != 515 (correct), computed sim=-100.10, correct sim=48.50
+3050446	1000	4352801	1000	2001
+2001 != 515 (correct), computed sim=-100.10, correct sim=48.50
+4352801	1000	3050446	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+3411685	1000	2241826	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+2241826	1000	3411685	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+4091918	1000	415684	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+415684	1000	4091918	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+2597758	1000	1184357	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+1184357	1000	2597758	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+2578838	1000	1870211	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+1870211	1000	2578838	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+737847	1000	3226834	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+3226834	1000	737847	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+2964721	1000	2362286	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+2362286	1000	2964721	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+1081531	1000	425565	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+425565	1000	1081531	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+498801	1000	1234618	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+1234618	1000	498801	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+815159	1000	3035877	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+3035877	1000	815159	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+2210562	1000	1304123	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+1304123	1000	2210562	1000	2001
+2001 != 504 (correct), computed sim=-100.10, correct sim=49.60
+810342	1000	1360669	1000	2001
+2001 != 504 (correct), computed sim=-100.10, correct sim=49.60
+1360669	1000	810342	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+474237	1000	1335817	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+1335817	1000	474237	1000	2001
+2001 != 512 (correct), computed sim=-100.10, correct sim=48.80
+1135216	1000	866326	1000	2001
+2001 != 512 (correct), computed sim=-100.10, correct sim=48.80
+866326	1000	1135216	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+3372453	1000	803952	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+803952	1000	3372453	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+2474698	1000	670017	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+670017	1000	2474698	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+2109883	1000	3392147	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+3392147	1000	2109883	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+1387052	1000	3286913	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+3286913	1000	1387052	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+3716678	1000	3926715	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+3926715	1000	3716678	1000	2001
+2001 != 505 (correct), computed sim=-100.10, correct sim=49.50
+906985	1000	1450717	1000	2001
+2001 != 505 (correct), computed sim=-100.10, correct sim=49.50
+1450717	1000	906985	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+799	1000	3788570	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+3788570	1000	799	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+55965	1000	3764028	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+3764028	1000	55965	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+1743773	1000	3276715	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+3276715	1000	1743773	1000	2001
+2001 != 507 (correct), computed sim=-100.10, correct sim=49.30
+975043	1000	94072	1000	2001
+2001 != 507 (correct), computed sim=-100.10, correct sim=49.30
+94072	1000	975043	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+3428363	1000	3998269	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+3998269	1000	3428363	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2431047	1000	3088755	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+3088755	1000	2431047	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+1594568	1000	3936883	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+3936883	1000	1594568	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+3691808	1000	1550569	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+1550569	1000	3691808	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+2996676	1000	3470518	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+3470518	1000	2996676	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+2984448	1000	2662357	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+2662357	1000	2984448	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+2974686	1000	3312574	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+3312574	1000	2974686	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+4082381	1000	1687018	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+1687018	1000	4082381	1000	2001
+2001 != 562 (correct), computed sim=-100.10, correct sim=43.80
+567683	1000	3586028	1000	2001
+2001 != 562 (correct), computed sim=-100.10, correct sim=43.80
+3586028	1000	567683	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+1033943	1000	644637	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+644637	1000	1033943	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+313048	1000	1347349	1000	2001
+2001 != 533 (correct), computed sim=-100.10, correct sim=46.70
+1347349	1000	313048	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+4330679	1000	2326276	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+2326276	1000	4330679	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+2168264	1000	4392196	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+4392196	1000	2168264	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+1695718	1000	261518	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+261518	1000	1695718	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+643578	1000	537340	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+537340	1000	643578	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+4308960	1000	4429371	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+4429371	1000	4308960	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+1816540	1000	3817637	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+3817637	1000	1816540	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2664410	1000	4481184	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+4481184	1000	2664410	1000	2001
+2001 != 515 (correct), computed sim=-100.10, correct sim=48.50
+3972659	1000	728814	1000	2001
+2001 != 515 (correct), computed sim=-100.10, correct sim=48.50
+728814	1000	3972659	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2390161	1000	2816003	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2816003	1000	2390161	1000	2001
+2001 != 550 (correct), computed sim=-100.10, correct sim=45.00
+4279997	1000	2950452	1000	2001
+2001 != 550 (correct), computed sim=-100.10, correct sim=45.00
+2950452	1000	4279997	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+4041736	1000	216833	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+216833	1000	4041736	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+1469340	1000	739467	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+739467	1000	1469340	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+306216	1000	4477	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+4477	1000	306216	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+1562773	1000	909330	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+909330	1000	1562773	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+4433174	1000	3089139	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+3089139	1000	4433174	1000	2001
+2001 != 554 (correct), computed sim=-100.10, correct sim=44.60
+3684246	1000	4435402	1000	2001
+2001 != 554 (correct), computed sim=-100.10, correct sim=44.60
+4435402	1000	3684246	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+656190	1000	1677829	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+1677829	1000	656190	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+4216375	1000	2729547	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+2729547	1000	4216375	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+1632341	1000	1842382	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+1842382	1000	1632341	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+562836	1000	2369381	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+2369381	1000	562836	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+1547950	1000	1017015	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+1017015	1000	1547950	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+1028038	1000	3010331	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+3010331	1000	1028038	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+2467961	1000	1744742	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+1744742	1000	2467961	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+3409650	1000	4210945	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+4210945	1000	3409650	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+3168079	1000	3348988	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+3348988	1000	3168079	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+231155	1000	52675	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+52675	1000	231155	1000	2001
+2001 != 542 (correct), computed sim=-100.10, correct sim=45.80
+3798502	1000	2905370	1000	2001
+2001 != 542 (correct), computed sim=-100.10, correct sim=45.80
+2905370	1000	3798502	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+2384576	1000	2328388	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+2328388	1000	2384576	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+1832877	1000	1977598	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+1977598	1000	1832877	1000	2001
+2001 != 553 (correct), computed sim=-100.10, correct sim=44.70
+1779217	1000	150361	1000	2001
+2001 != 553 (correct), computed sim=-100.10, correct sim=44.70
+150361	1000	1779217	1000	2001
+2001 != 542 (correct), computed sim=-100.10, correct sim=45.80
+1434552	1000	4355320	1000	2001
+2001 != 542 (correct), computed sim=-100.10, correct sim=45.80
+4355320	1000	1434552	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+3458747	1000	552489	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+552489	1000	3458747	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+4592709	1000	3163484	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+3163484	1000	4592709	1000	2001
+2001 != 515 (correct), computed sim=-100.10, correct sim=48.50
+3134677	1000	4092545	1000	2001
+2001 != 515 (correct), computed sim=-100.10, correct sim=48.50
+4092545	1000	3134677	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+3922490	1000	3138778	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+3138778	1000	3922490	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+3572275	1000	3958240	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+3958240	1000	3572275	1000	2001
+2001 != 513 (correct), computed sim=-100.10, correct sim=48.70
+4602527	1000	1566162	1000	2001
+2001 != 513 (correct), computed sim=-100.10, correct sim=48.70
+1566162	1000	4602527	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+428451	1000	2619186	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+2619186	1000	428451	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+2395120	1000	2041717	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+2041717	1000	2395120	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+4212962	1000	77183	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+77183	1000	4212962	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+4118218	1000	679615	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+679615	1000	4118218	1000	2001
+2001 != 509 (correct), computed sim=-100.10, correct sim=49.10
+2470744	1000	2595727	1000	2001
+2001 != 509 (correct), computed sim=-100.10, correct sim=49.10
+2595727	1000	2470744	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+3387541	1000	3311573	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+3311573	1000	3387541	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+3468994	1000	1982203	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+1982203	1000	3468994	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+4432373	1000	382619	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+382619	1000	4432373	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+3125657	1000	1079730	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+1079730	1000	3125657	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+4153252	1000	1296063	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+1296063	1000	4153252	1000	2001
+2001 != 556 (correct), computed sim=-100.10, correct sim=44.40
+4501087	1000	3389600	1000	2001
+2001 != 556 (correct), computed sim=-100.10, correct sim=44.40
+3389600	1000	4501087	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+670646	1000	546311	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+546311	1000	670646	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+3899500	1000	2491576	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+2491576	1000	3899500	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+2556901	1000	2364617	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+2364617	1000	2556901	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+334801	1000	606197	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+606197	1000	334801	1000	2001
+2001 != 564 (correct), computed sim=-100.10, correct sim=43.60
+2138987	1000	2626877	1000	2001
+2001 != 564 (correct), computed sim=-100.10, correct sim=43.60
+2626877	1000	2138987	1000	2001
+2001 != 514 (correct), computed sim=-100.10, correct sim=48.60
+3173187	1000	2218276	1000	2001
+2001 != 514 (correct), computed sim=-100.10, correct sim=48.60
+2218276	1000	3173187	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+4516913	1000	4212265	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+4212265	1000	4516913	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+1012286	1000	2055248	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+2055248	1000	1012286	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+3773083	1000	3725361	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+3725361	1000	3773083	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+4142511	1000	3567173	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+3567173	1000	4142511	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+2839534	1000	328115	1000	2001
+2001 != 517 (correct), computed sim=-100.10, correct sim=48.30
+328115	1000	2839534	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+3729951	1000	2058593	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+2058593	1000	3729951	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+2048259	1000	3887124	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+3887124	1000	2048259	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+266087	1000	1925629	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+1925629	1000	266087	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+3308696	1000	3603423	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+3603423	1000	3308696	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+4287932	1000	2888010	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+2888010	1000	4287932	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+3679197	1000	3740582	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+3740582	1000	3679197	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+4447791	1000	3501501	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+3501501	1000	4447791	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+1077069	1000	1423385	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+1423385	1000	1077069	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+3990377	1000	33864	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+33864	1000	3990377	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+2426106	1000	1646410	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+1646410	1000	2426106	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+4578760	1000	4493409	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+4493409	1000	4578760	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+1837735	1000	1358145	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+1358145	1000	1837735	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+47581	1000	4168324	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+4168324	1000	47581	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+2521582	1000	1455433	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+1455433	1000	2521582	1000	2001
+2001 != 513 (correct), computed sim=-100.10, correct sim=48.70
+3204180	1000	4268101	1000	2001
+2001 != 513 (correct), computed sim=-100.10, correct sim=48.70
+4268101	1000	3204180	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+3153458	1000	2734666	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+2734666	1000	3153458	1000	2001
+2001 != 555 (correct), computed sim=-100.10, correct sim=44.50
+734524	1000	1968932	1000	2001
+2001 != 555 (correct), computed sim=-100.10, correct sim=44.50
+1968932	1000	734524	1000	2001
+2001 != 503 (correct), computed sim=-100.10, correct sim=49.70
+776909	1000	762750	1000	2001
+2001 != 503 (correct), computed sim=-100.10, correct sim=49.70
+762750	1000	776909	1000	2001
+2001 != 513 (correct), computed sim=-100.10, correct sim=48.70
+1084137	1000	4122376	1000	2001
+2001 != 513 (correct), computed sim=-100.10, correct sim=48.70
+4122376	1000	1084137	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+2889481	1000	3020466	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+3020466	1000	2889481	1000	2001
+2001 != 551 (correct), computed sim=-100.10, correct sim=44.90
+3796089	1000	1492560	1000	2001
+2001 != 551 (correct), computed sim=-100.10, correct sim=44.90
+1492560	1000	3796089	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+2515101	1000	1594071	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+1594071	1000	2515101	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+3517851	1000	3993342	1000	2001
+2001 != 519 (correct), computed sim=-100.10, correct sim=48.10
+3993342	1000	3517851	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+2514288	1000	1401005	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+1401005	1000	2514288	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+3201512	1000	1670300	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+1670300	1000	3201512	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+2145639	1000	2730341	1000	2001
+2001 != 521 (correct), computed sim=-100.10, correct sim=47.90
+2730341	1000	2145639	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+2002747	1000	4166610	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+4166610	1000	2002747	1000	2001
+2001 != 511 (correct), computed sim=-100.10, correct sim=48.90
+3300676	1000	3112762	1000	2001
+2001 != 511 (correct), computed sim=-100.10, correct sim=48.90
+3112762	1000	3300676	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+2888623	1000	1599364	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+1599364	1000	2888623	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+3995449	1000	1497209	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+1497209	1000	3995449	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+3326099	1000	2583784	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2583784	1000	3326099	1000	2001
+2001 != 540 (correct), computed sim=-100.10, correct sim=46.00
+2637153	1000	3324862	1000	2001
+2001 != 540 (correct), computed sim=-100.10, correct sim=46.00
+3324862	1000	2637153	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+570078	1000	3426795	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+3426795	1000	570078	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+254576	1000	2024896	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+2024896	1000	254576	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+3358765	1000	917556	1000	2001
+2001 != 518 (correct), computed sim=-100.10, correct sim=48.20
+917556	1000	3358765	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+1832496	1000	3774302	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+3774302	1000	1832496	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+2452465	1000	379126	1000	2001
+2001 != 520 (correct), computed sim=-100.10, correct sim=48.00
+379126	1000	2452465	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+3156015	1000	1606176	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+1606176	1000	3156015	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+683517	1000	650416	1000	2001
+2001 != 530 (correct), computed sim=-100.10, correct sim=47.00
+650416	1000	683517	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+2962678	1000	4599441	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+4599441	1000	2962678	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+572502	1000	2317338	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2317338	1000	572502	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+1994009	1000	625173	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+625173	1000	1994009	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+1048999	1000	3130081	1000	2001
+2001 != 535 (correct), computed sim=-100.10, correct sim=46.50
+3130081	1000	1048999	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+1077770	1000	232117	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+232117	1000	1077770	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+1302947	1000	272087	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+272087	1000	1302947	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+1182	1000	2676785	1000	2001
+2001 != 525 (correct), computed sim=-100.10, correct sim=47.50
+2676785	1000	1182	1000	2001
+2001 != 506 (correct), computed sim=-100.10, correct sim=49.40
+4457953	1000	4052499	1000	2001
+2001 != 506 (correct), computed sim=-100.10, correct sim=49.40
+4052499	1000	4457953	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+3593959	1000	600441	1000	2001
+2001 != 537 (correct), computed sim=-100.10, correct sim=46.30
+600441	1000	3593959	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+4147162	1000	3517858	1000	2001
+2001 != 531 (correct), computed sim=-100.10, correct sim=46.90
+3517858	1000	4147162	1000	2001
+2001 != 509 (correct), computed sim=-100.10, correct sim=49.10
+4582094	1000	3034855	1000	2001
+2001 != 509 (correct), computed sim=-100.10, correct sim=49.10
+3034855	1000	4582094	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+995009	1000	2777688	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+2777688	1000	995009	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+3332088	1000	2355215	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2355215	1000	3332088	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+2528538	1000	1606568	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+1606568	1000	2528538	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+2490078	1000	3936289	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+3936289	1000	2490078	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+2746009	1000	4014957	1000	2001
+2001 != 528 (correct), computed sim=-100.10, correct sim=47.20
+4014957	1000	2746009	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+1514326	1000	4120720	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+4120720	1000	1514326	1000	2001
+2001 != 509 (correct), computed sim=-100.10, correct sim=49.10
+1957957	1000	3827534	1000	2001
+2001 != 509 (correct), computed sim=-100.10, correct sim=49.10
+3827534	1000	1957957	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+959351	1000	1655806	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+1655806	1000	959351	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+919914	1000	3858264	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+3858264	1000	919914	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+1859858	1000	293570	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+293570	1000	1859858	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+1270296	1000	3124375	1000	2001
+2001 != 538 (correct), computed sim=-100.10, correct sim=46.20
+3124375	1000	1270296	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+1591940	1000	977662	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+977662	1000	1591940	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+2272408	1000	614191	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+614191	1000	2272408	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+4136920	1000	473663	1000	2001
+2001 != 536 (correct), computed sim=-100.10, correct sim=46.40
+473663	1000	4136920	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+2632999	1000	1497019	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+1497019	1000	2632999	1000	2001
+2001 != 548 (correct), computed sim=-100.10, correct sim=45.20
+1633617	1000	2184893	1000	2001
+2001 != 548 (correct), computed sim=-100.10, correct sim=45.20
+2184893	1000	1633617	1000	2001
+2001 != 515 (correct), computed sim=-100.10, correct sim=48.50
+170677	1000	3354851	1000	2001
+2001 != 515 (correct), computed sim=-100.10, correct sim=48.50
+3354851	1000	170677	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+3049443	1000	729807	1000	2001
+2001 != 516 (correct), computed sim=-100.10, correct sim=48.40
+729807	1000	3049443	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+1098156	1000	3048665	1000	2001
+2001 != 534 (correct), computed sim=-100.10, correct sim=46.60
+3048665	1000	1098156	1000	2001
+2001 != 512 (correct), computed sim=-100.10, correct sim=48.80
+2847231	1000	3001375	1000	2001
+2001 != 512 (correct), computed sim=-100.10, correct sim=48.80
+3001375	1000	2847231	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+1770600	1000	4190727	1000	2001
+2001 != 524 (correct), computed sim=-100.10, correct sim=47.60
+4190727	1000	1770600	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+316061	1000	1864188	1000	2001
+2001 != 522 (correct), computed sim=-100.10, correct sim=47.80
+1864188	1000	316061	1000	2001
+2001 != 544 (correct), computed sim=-100.10, correct sim=45.60
+328262	1000	3165635	1000	2001
+2001 != 544 (correct), computed sim=-100.10, correct sim=45.60
+3165635	1000	328262	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+3235965	1000	2758662	1000	2001
+2001 != 539 (correct), computed sim=-100.10, correct sim=46.10
+2758662	1000	3235965	1000	2001
+2001 != 514 (correct), computed sim=-100.10, correct sim=48.60
+356725	1000	4004264	1000	2001
+2001 != 514 (correct), computed sim=-100.10, correct sim=48.60
+4004264	1000	356725	1000	2001
+2001 != 515 (correct), computed sim=-100.10, correct sim=48.50
+3988833	1000	4505836	1000	2001
+2001 != 515 (correct), computed sim=-100.10, correct sim=48.50
+4505836	1000	3988833	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+2251330	1000	4368919	1000	2001
+2001 != 532 (correct), computed sim=-100.10, correct sim=46.80
+4368919	1000	2251330	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+2930171	1000	936602	1000	2001
+2001 != 526 (correct), computed sim=-100.10, correct sim=47.40
+936602	1000	2930171	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+2157595	1000	3845066	1000	2001
+2001 != 529 (correct), computed sim=-100.10, correct sim=47.10
+3845066	1000	2157595	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+3681209	1000	3704652	1000	2001
+2001 != 523 (correct), computed sim=-100.10, correct sim=47.70
+3704652	1000	3681209	1000	2001
+2001 != 550 (correct), computed sim=-100.10, correct sim=45.00
+3797810	1000	4035595	1000	2001
+2001 != 550 (correct), computed sim=-100.10, correct sim=45.00
+4035595	1000	3797810	1000	2001
+2001 != 515 (correct), computed sim=-100.10, correct sim=48.50
+259728	1000	1274866	1000	2001
+2001 != 515 (correct), computed sim=-100.10, correct sim=48.50
+1274866	1000	259728	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+3162152	1000	3480235	1000	2001
+2001 != 527 (correct), computed sim=-100.10, correct sim=47.30
+3480235	1000	3162152	1000	2001
