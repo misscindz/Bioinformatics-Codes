@@ -1,3 +1,0 @@
-space leak: main memory for block 2 not freed
-15 cells of size 1
-allocated: file "memtest.c", line 24

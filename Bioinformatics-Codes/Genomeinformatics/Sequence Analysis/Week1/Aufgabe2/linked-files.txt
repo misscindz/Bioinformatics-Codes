@@ -1,2 +1,0 @@
-chain.txt
-matches.txt

@@ -1,4 +1,0 @@
-Vienna-examples.txt@
-fold-phenyalanines.xml@
-numstructs.tsv@
-phenyalanines.txt@

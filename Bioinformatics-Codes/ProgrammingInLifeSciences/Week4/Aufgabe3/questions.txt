@@ -1,5 +1,0 @@
-Nehmen Sie an, Sie kennen die Haufigkeitsverteilung der Zeichen in der zu repraesentierenden
-Sequenz T. Welcher Wert sollte dann sinnvollerweise fuer lambda gewaehlt werden?
-
-Nehmen Sie an, alle zu repraesentierenden Sequenzen haben die gleiche Laenge. Wie kann man
-dann die Funktion intset_is_member implementieren?
