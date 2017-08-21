@@ -125,9 +125,7 @@ MoleculeVector MolFilter::getMoleculesByRingCount(Operator op, int value){
 		rings = ringVector.size();
         if (push_this(op,rings,value)){
             filteredMolecules.push_back(moleculeVector.at(i));
-        }
-// 	filteredMolecules = compare_this_shit(moleculeVector.at(i),op,rings,value);
-	}     
-    return filteredMolecules;
+        }     
+    	return filteredMolecules;
 }
     
